@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="misOpciones" >
+        <item>Hola</item>
+        <item>Hello</item>
+        <item>NiHao</item>
+        <item>Hallo</item>
+        <item>Konnichiwa</item>
+        <item>Bonjorno</item>
+    </string-array>
+</resources>
